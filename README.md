@@ -1,4 +1,4 @@
-# Livro de receitas
+# Introdução ao GitHub
 
 ### Olá! Bem vindo ao meu livro de receitas.
 
